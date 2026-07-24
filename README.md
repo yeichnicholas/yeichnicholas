@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Nicholas%20Yeich&fontSize=50&animation=fadeIn)
+<p align="center">
+  <img src="leaseloom-preview.png" alt="LeaseLoom Preview" width="100%" />
+</p>
 # Hi, I'm Nicholas Yeich (Nick) 👋
 
 I'm a builder and creator learning to code in public. I love exploring AI-driven development, modern web tools, and bringing fun ideas to life.
