@@ -1,4 +1,4 @@
-# Hi, I'm Nicholas Yeich 👋
+# Hi, I'm Nicholas Yeich (Nick) 👋
 
 I'm a builder and creator learning to code in public. I love exploring AI-driven development, modern web tools, and bringing fun ideas to life.
 
