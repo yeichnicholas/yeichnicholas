@@ -22,3 +22,11 @@ I'm a builder and creator learning to code in public. I love exploring AI-driven
 ### 📫 Connect With Me
 * **GitHub:** [@yeichnicholas](https://github.com/yeichnicholas)
 * **Website:** [yeichmedia.com](https://yeichmedia.com)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeichnicholas&show_icons=true&theme=radical" alt="Nicholas's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeichnicholas&layout=compact&theme=radical" alt="Top Languages" />
+</p>
