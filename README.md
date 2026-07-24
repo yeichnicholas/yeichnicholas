@@ -23,9 +23,3 @@ I'm a builder and creator learning to code in public. I love exploring AI-driven
 * **GitHub:** [@yeichnicholas](https://github.com/yeichnicholas)
 * **Website:** [yeichmedia.com](https://yeichmedia.com)
 ---
-
----
-
-### 📊 Contribution Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeichnicholas&theme=radical)
