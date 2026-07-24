@@ -26,8 +26,6 @@ I'm a builder and creator learning to code in public. I love exploring AI-driven
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Contribution Stats
 
-![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeichnicholas&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeichnicholas&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeichnicholas&theme=radical)
