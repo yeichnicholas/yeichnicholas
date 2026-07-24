@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nicholas Yeich 👋
 
-<!--
-**yeichnicholas/yeichnicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a builder and creator learning to code in public. I love exploring AI-driven development, modern web tools, and bringing fun ideas to life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Building
+* **[LeaseLoom](https://github.com/yeichnicholas/LeaseLoom)** – Modern real estate and lease management app.
+
+---
+
+### 🛠️ What I'm Learning & Using
+* **Web Basics:** HTML, CSS, JavaScript
+* **Building with AI:** Claude, ChatGPT, GitHub Copilot
+* **Tools:** Git, GitHub
+
+---
+
+### 📫 Connect With Me
+* **GitHub:** [@yeichnicholas](https://github.com/yeichnicholas)
+* **Website:** [yeichmedia.com](https://yeichmedia.com)
