@@ -6,7 +6,7 @@ I'm a builder and creator learning to code in public. I love exploring AI-driven
 
 ### 🚀 What I'm Building
 * **[LeaseLoom](https://leaseloom.org)** – Modern real estate and lease management app.
-* **[YeichMedia](https://yeichmedia.com)** - Ai Automation
+* **[YeichMedia](https://yeichmedia.com)** - AI Automation Consulting 
 
 ---
 
