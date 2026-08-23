@@ -14,7 +14,7 @@ Building the automation layer for **Strategic Property Management (SPM)** ahead 
 
 ### How I work
 
-Solo builder, agent-first workflow: I use Claude Code as an execution layer across research, infra, and shipping — from architecture decisions down to PR review. `pr-review-agent` below is one piece of that.
+Solo builder, agent-first workflow: I pair AI tooling (Claude Code, Codex, Cursor, Perplexity) across research, infra, and shipping, and still write code by hand where it matters. `pr-review-agent` below is one piece of that toolkit.
 
 ### Stack
 
