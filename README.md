@@ -1,6 +1,7 @@
 # Nicholas Yeich
 
 Building AI-driven operations infrastructure for property management.
+San Antonio, Texas
 
 Building the automation layer for **Strategic Property Management (SPM)** ahead of joining as CTO — lease workflows, maintenance dispatch, and internal ops tooling. Building **[LeaseLoom](https://leaseloom.org)** as the product proof point: AI agents that handle the repetitive, high-volume ops work property managers do by hand today.
 
