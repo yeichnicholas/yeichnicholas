@@ -1,27 +1,32 @@
-# Hi, I'm Nicholas Yeich (Nick) 👋
+# Nicholas Yeich
 
-I'm a builder and creator learning to code in public. I love exploring AI-driven development, modern web tools, and bringing fun ideas to life.
+Building AI-driven operations infrastructure for property management.
 
----
-
-### 🚀 What I'm Building
-* **[LeaseLoom](https://leaseloom.org)** – Modern real estate and lease management app.
-* **[YeichMedia](https://yeichmedia.com)** - AI Automation Consulting 
+Building the automation layer for **Strategic Property Management (SPM)** ahead of joining as CTO — lease workflows, maintenance dispatch, and internal ops tooling. Building **[LeaseLoom](https://leaseloom.org)** as the product proof point: AI agents that handle the repetitive, high-volume ops work property managers do by hand today.
 
 ---
 
-### 🛠️ What I'm Learning & Using
+### What I'm building
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- **[LeaseLoom](https://leaseloom.org)** — AI automation platform for property management. Lease processing, maintenance triage, tenant comms, and reporting, built as composable agents rather than one monolith.
+- **SPM automation systems** — internal tooling for a real property management operation: workflow automation, audit tooling, and a Notion-based ops HQ.
+- **[YeichMedia](https://yeichmedia.com)** — AI operations advisory, currently paused while I focus on the above.
+
+### How I work
+
+Solo builder, agent-first workflow: I use Claude Code as an execution layer across research, infra, and shipping — from architecture decisions down to PR review. `pr-review-agent` below is one piece of that.
+
+### Stack
+
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-### 📫 Connect With Me
-* **GitHub:** [@yeichnicholas](https://github.com/yeichnicholas)
-* **Website:** [yeichmedia.com](https://yeichmedia.com)
----
+### Connect
+
+- **Site:** [leaseloom.org](https://leaseloom.org)
+- **LinkedIn:** [nicholas-yeich](https://www.linkedin.com/in/nicholas-yeich/)
