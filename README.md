@@ -4,21 +4,21 @@ Building AI-driven operations infrastructure for property management.
 
 San Antonio, Texas
 
-Building the automation layer for **Property Management Companies** — lease workflows, maintenance dispatch, and internal ops tooling. Building **[LeaseLoom](https://leaseloom.org)** as the product proof point: AI agents that handle the repetitive, high-volume ops work property managers do by hand today.
+Building the automation layer for **Property Management Companies**: lease workflows, maintenance dispatch, and internal ops tooling. Building **[LeaseLoom](https://leaseloom.org)** as the product proof point: AI agents that handle the repetitive, high-volume ops work property managers do by hand today.
 
 <a href="https://openai.com/business/partners/">
   <img src="openai-select-partner.png" alt="OpenAI Select Partner" width="200">
 </a>
 
-My company, **YeichMedia LLC**, is an OpenAI Select Partner in the OpenAI Partner Network.
+My company, **Yeich Media LLC**, is an OpenAI Select Partner in the OpenAI Partner Network.
 
 ---
 
 ### What I'm building
 
-- **[LeaseLoom](https://leaseloom.org)** — AI automation platform for property management. Lease processing, maintenance triage, tenant comms, and reporting, built as composable agents rather than one monolith.
-- **PM automation systems** — internal tooling for a real property management operation: workflow automation, audit tooling, and a Notion-based ops HQ.
-- **[YeichMedia](https://yeichmedia.com)** — AI operations advisory, currently paused while I focus on the above.
+- **[LeaseLoom](https://leaseloom.org)**: AI automation platform for property management. Lease processing, maintenance triage, tenant comms, and reporting, built as composable agents rather than one monolith.
+- **PM automation systems**: internal tooling for a real property management operation, covering workflow automation, audit tooling, and a Notion-based ops HQ.
+- **[Yeich Media](https://yeichmedia.com)**: AI operations for property management.
 
 ### How I work
 
