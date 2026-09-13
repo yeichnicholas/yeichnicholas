@@ -17,7 +17,7 @@ My company, **Yeich Media LLC**, is an OpenAI Select Partner in the OpenAI Partn
 ### What I'm building
 
 - **[LeaseLoom](https://leaseloom.org)**: AI automation platform for property management. Lease processing, maintenance triage, tenant comms, and reporting, built as composable agents rather than one monolith.
-- **PM automation systems**: internal tooling for a real property management operation, covering workflow automation, audit tooling, and a Notion-based ops HQ.
+- **Before this:** I mapped and scored 117 operational processes for automation at a property management company.
 - **[Yeich Media](https://yeichmedia.com)**: AI operations for property management.
 
 ### How I work
